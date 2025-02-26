@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Datta Rachuri</h1>
-<h3 align="center"> Data Analyst | 2.5+ Years | Data Analysis, Big Data, Machine Learning, Deep Learning, Generative AI | AWS Certified Solutions Architect Associate, Microsoft Certified Power BI Data Analyst Associate | I love exploring and playing with data to uncover insights and drive innovation</h3>
+<h3 align="center"> Data Analyst | 3.5+ Years | Data Analysis, Big Data, Machine Learning, Deep Learning, Generative AI | AWS Certified Solutions Architect Associate, Microsoft Certified Power BI Data Analyst Associate | I love exploring and playing with data to uncover insights and drive innovation</h3>
 
 - 🔭 I’m currently working on [Designing-a-Hive-Powered-Data-Warehouse-for-Online-Retail<br>](https://github.com/Ravi-datta/Designing-a-Hive-Powered-Data-Warehouse-for-Online-Retail)
 
