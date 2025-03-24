@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring<be>](https://github.com/Ravi-datta/Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring)
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravi-datta](https://github.com/Ravi-datta)
 
-- 💬 Ask me about **Data Analysis, Data Science, Big Data, Machine Learning, Deep Learning, Generative AI**
+- 💬 Ask me about **Data Analysis, Data Science, Big Data, Machine Learning, Deep Learning, Agentic AI**
 
 - 📫 How to reach me **jobs.ravidatta@gmail.com**
 
