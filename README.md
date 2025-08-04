@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravi Datta Rachuri</h1>
-<h3 align="center"> Data Analyst | 3.5+ Years | Data Analysis, Big Data, Machine Learning, Deep Learning, Generative AI | I love exploring and playing with data to uncover insights and drive innovation</h3>
+<h3 align="center"> AI Engineer | 6.5+ Years | Generative AI & RAG Specialist | LangChain, Vector Databases, Prompt Engineering, AWS | Building Real-Time Conversational Insights & Predictive AI Solutions</h3>
 
-- 🔭 I’m currently working on [Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring<be>](https://github.com/Ravi-datta/Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring)
+- 🔭 I’m currently working on [Conversational-RAG-Agent-for-Real-Time-Compliance-Insights<be>](https://github.com/Ravi-datta/Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring)
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **Advanced LLM orchestration, LangGraph, and multi-agent AI systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravi-datta](https://github.com/Ravi-datta)
 
-- 💬 Ask me about **Data Analysis, Data Science, Big Data, Machine Learning, Deep Learning, Agentic AI**
+- 💬 Ask me about **Generative AI, RAG pipelines, LLM orchestration, NLP, Machine Learning, Data Engineering**
 
 - 📫 How to reach me **jobs.ravidatta@gmail.com**
 
