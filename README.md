@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Datta Rachuri</h1>
-<h3 align="center"> AI Engineer | 8+ Years | Generative AI & RAG Specialist | LangChain, Vector Databases, Prompt Engineering, AWS | Building Real-Time Conversational Insights & Predictive AI Solutions</h3>
+<h3 align="center"> AI Engineer | Generative AI & RAG Specialist | LangChain, Vector Databases, Prompt Engineering, AWS | Building Real-Time Conversational Insights & Predictive AI Solutions</h3>
 
 - 🔭 I’m currently working on [Conversational-RAG-Agent-for-Real-Time-Compliance-Insights<be>](https://github.com/Ravi-datta/Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring)
 
